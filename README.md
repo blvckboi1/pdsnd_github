@@ -11,6 +11,11 @@ To complete this project, i'll require the following softwares:
 - A text editor, like Sublime or Atom
 - A terminal application
 
+## Files Used
+- Chicago.csv
+- New_York_City.csv
+- Washington.csv
+
 ## The Datasets
 The datasets provided by Motivate, a bike share system provider in the US, contains randomly selected data for the first six months of 2017 for all three cities. The data files for all three cities contain the same core six columns:
 
