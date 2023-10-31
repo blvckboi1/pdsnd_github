@@ -59,7 +59,7 @@ def time_stats(df):
     start_time = time.time()
 
     popular_month = df['Month'].mode()[0]
-    print('Most Common Month:', popular_month)
+    print('Most Common Month (1 = January, 2 = February, ..., 6 = June):', popular_month)
 
     popular_day = df['Day'].mode()[0]
     print('Most Common Day of the Week:', popular_day)
