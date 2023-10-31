@@ -8,7 +8,7 @@ In this project, I will explore data related to bike share systems for three maj
 To complete this project, i'll require the following softwares:
 
 - Python 
-- A text editor, like Sublime or Atom
+- A text editor, like Sublime or VScode
 - A terminal application
 
 ## Files Used
